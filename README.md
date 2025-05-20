@@ -56,6 +56,7 @@ To help traffic authorities identify accident patterns, severity trends, and hig
 
 ### 👨‍💻 Author
 **Syed Muhammad Meesum Abbas**  
+**Syed Daniyal Hussain** 
 *MS Data Science, Institute of Business Administration*  
 Project completed as part of Data Warehouse coursework.
 
